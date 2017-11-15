@@ -1,0 +1,111 @@
+body {
+
+	padding-top: 25px;
+}
+
+
+a:link, a:visited
+{
+    /*color: #04396F !important; */
+    color: #757575 !important;
+    font-size: 15px !important;
+}
+
+hr {
+
+    border: none;
+    height: 2px;
+    background-color: #04396F;
+}
+
+/* beginning of media query */
+
+@media only screen and (max-width: 768px) {
+
+    .logo {
+
+		display: block;
+    	margin-left: auto;
+		margin-right: auto;
+	}
+
+	.name {
+
+		text-align: center;
+	}
+
+	.description {
+
+		text-align: center;
+	}
+
+	.icon {
+
+		text-align: center;
+	}
+
+}
+
+
+@media only screen and (max-width: 371px) {
+
+   	.carousel-caption {
+
+        display: none;
+	}
+
+}
+
+/* end of media query */
+
+.logo {
+
+	display: block;
+	padding: 10px;
+	max-width: 180px;
+}
+
+.name {
+
+	font-family: 'Rozha One', serif;
+	font-size: 35px;
+	margin-top: 30px;
+	color: #04396F;
+}
+
+
+.description {
+
+	font-family: 'Lobster', cursive;
+	font-size: 25px;
+	margin-top: 10px;
+	color: #04396F;
+}
+
+.head_bottom {
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+.row_bottom {
+
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
+.text_bottom {
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: 'Rozha One', serif;
+	font-size: 18px;
+}
+
+.footer {
+
+	margin-top: 20px;
+}
+
+
