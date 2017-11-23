@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 None
 
-## Acknowledgments
+## Acknowledgements
 
 * The photos are all taken with an iPhone, in my day to day life.
 
