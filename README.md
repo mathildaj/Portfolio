@@ -6,7 +6,7 @@ A single portfolio web application uses responsive design.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Go to [here](https://dashboard.heroku.com/apps/small-is-beautiful) to see the live version.
+Go to [here](https://small-is-beautiful.herokuapp.com/index.html) to see the live version.
 
 
 ### Prerequisites
