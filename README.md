@@ -1,10 +1,13 @@
-# Project Title
+# Project Description
 
-A Portfolio Website
+A single portfolio web application uses responsive design.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+Go to [here](https://dashboard.heroku.com/apps/small-is-beautiful) to see the live version.
+
 
 ### Prerequisites
 
@@ -21,14 +24,6 @@ These instructions will get you a copy of the project up and running on your loc
 3. Find index.html file in the directory.  Right click on that file, then Open with, Chrome (or other web browser).
 4. Enjoy the photo gallery.
 
-
-## Authors
-
-* **Ying Xie**
-
-## License
-
-None
 
 ## Acknowledgements
 
